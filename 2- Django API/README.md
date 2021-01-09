@@ -1,4 +1,4 @@
-
+# Our Rest Django API
 
 Once you have successfully built a machine learning model, one of the first challenges is putting the model into production so that it can be used for realistic purposes. One of the best ways to achieve this is to create a REST API for your model so that the model can be used from any platform which is capable of interacting with REST APIs.
 
